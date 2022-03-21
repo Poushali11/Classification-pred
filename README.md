@@ -1,2 +1,2 @@
 # Classification-pred
-It contains all my classification prediction project works
+It contains some of my classification prediction project works and hackathon works.
